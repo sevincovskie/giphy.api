@@ -21,7 +21,7 @@ async function getGiphy() {
   try {
     //? 200-400 Status + JS code
     const response = await fetch(
-      "https:/api.giphy.com/v1/gifs/trending?api_key=UtBPxvqH669fWoNZCLrqKV4kCnNm36Nz",
+      "https://api.giphy.com/v1/gifs/trending?api_key=KaX8Rftb0KSJ86vNZIpB8lzvv0wsfkVT",
       {
         method: "GET",
         headers: {
